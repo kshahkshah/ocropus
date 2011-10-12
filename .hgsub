@@ -4,3 +4,4 @@ ocrolseg = https://code.google.com/p/ocropus.ocrolseg
 ocrofst = https://code.google.com/p/ocropus.ocrofst
 ocropy = https://code.google.com/p/ocropus.ocropy
 pyopenfst = https://code.google.com/p/pyopenfst
+; flann = [git]git://github.com/mariusmuja/flann.git
