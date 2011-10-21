@@ -1,7 +1,7 @@
-iulib = https://code.google.com/p/iulib
-ocrorast = https://code.google.com/p/ocropus.ocrorast
-ocrolseg = https://code.google.com/p/ocropus.ocrolseg
-ocrofst = https://code.google.com/p/ocropus.ocrofst
-ocropy = https://code.google.com/p/ocropus.ocropy
-pyopenfst = https://code.google.com/p/pyopenfst
+ocrorast = https://ocropus.googlecode.com/hg/ocrorast
+ocrolseg = https://ocropus.googlecode.com/hg/ocrolseg
+ocrofst = https://ocropus.googlecode.com/hg/ocrofst
+ocropy = https://ocropus.googlecode.com/hg/ocropy
+pyopenfst = https://ocropus.googlecode.com/hg/pyopenfst
+iulib = https://iulib.googlecode.com/hg/
 ; flann = [git]git://github.com/mariusmuja/flann.git
