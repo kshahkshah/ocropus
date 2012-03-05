@@ -3,4 +3,5 @@ ocrorast = https://code.google.com/p/ocropus.ocrorast
 ocrolseg = https://code.google.com/p/ocropus.ocrolseg
 ocrofst = https://code.google.com/p/ocropus.ocrofst
 ocropy = https://code.google.com/p/ocropus.ocropy
+llpy = https://code.google.com/p/ocropus.llpy
 pyopenfst = https://code.google.com/p/pyopenfst
